@@ -6,7 +6,7 @@ This is just a prof of concept! Modern Browsers do all support JSON.parse nativl
 JSON.parse implementation in javascript. 
 
 Here is a jsperf for Performance comparison:
-http://jsperf.com/json3/48
+https://jsperf.com/json4-perf
 
 Public Domain.
 
